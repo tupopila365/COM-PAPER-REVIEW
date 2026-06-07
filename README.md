@@ -4,8 +4,8 @@ This is my review of the 2026 paper **"A Theory of Multilevel Interactive Equili
 
 ### **What’s inside?**
 *   **`Review.md`**: My full write-up covering the problem, the authors' main contributions, and my own critique of their limitations.
-*   **`Figures/`**: I’ve included the key visuals from the paper:
-    *   **Figure 1**: The pyramid showing the Neural, Cognitive, and Behavioral levels.
+*   **Figures**: I’ve included the key visuals from the paper:
+    *   **`figure1`**: The pyramid showing the Neural, Cognitive, and Behavioral levels.
     *   **Figure 2**: The technical flowchart of how the agents "talk" to each other.
     *   **Figure 3**: The graphs showing a human and an LLM finding a stable conversation.
 *   **`Original_Paper.pdf`**: The source file (2605.10505v1) in case you want to see the heavy math.
